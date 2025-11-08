@@ -1,0 +1,1 @@
+{"transaction_id":2,"store_id":"S1","customer_id":"C1","timestamp":"2025-11-01T15:33:40.748Z","items":"[{\"qty\": 2, \"price\": 25, \"product_id\": \"P1\"}]","total_amount":50.000000000000000000,"payment_type":"card"}
